@@ -54,14 +54,16 @@
 </div>
 
 <!--icons and links-->
-<div align="center">
-<a href="www.linkedin.com/in/mohamed-guizani-4a335533b" target="blank">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" alt="linkedin height="50" width="50"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/mohamed-guizani-4a335533b" target="blank">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" alt="linkedin height="50" width="50"/>
 </a>
-<a href="https://www.facebook.com/profile.php?id=61552064156735" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=61552064156735" target="blank">
+  <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" alt="instagram" height="50" width="50" />
+</a>
 
   
-</div>
+</p>
 
 
 <!--horizontal divider(gradiant)-->
